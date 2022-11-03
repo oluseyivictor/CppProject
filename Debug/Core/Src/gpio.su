@@ -1,0 +1,4 @@
+../Core/Src/gpio.cpp:22:1:GPIO::GPIO(GPIO_TypeDef*, uint16_t, Direction)	48	static
+../Core/Src/gpio.cpp:43:6:void GPIO::digitalWrite(bool)	16	static
+../Core/Src/gpio.cpp:52:12:const bool GPIO::digitalRead()	24	static
+../Core/Src/gpio.cpp:59:1:GPIO::~GPIO()	16	static
